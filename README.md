@@ -1,2 +1,2 @@
 # Streamlit
-A faster way to build, share data apps and simple dashbaords
+A faster way to build, share data apps and simple dashbao
