@@ -7,6 +7,9 @@ For more information on Streamlit, check out their [official documentation](http
 
 Streamlit is a powerful tool for urban planners and data scientists to quickly turn data analysis into interactive web applications. It enables seamless integration with geographic data, making it ideal for visualizing urban trends, population growth, and spatial analyses. With minimal code, you can create dynamic dashboards to share insights and make data-driven decisions in urban planning projects.
 
+## License
+Streamlit is completely free and open-source and licensed under the Apache 2.0 license.
+
 # Example: 
 
-![Preview](https://raw.githubusercontent.com/Reproducible-Urban-Research/safe-route-openstreetmap/main/media/example1_BroadwayJunction_to_UnionSquare.png)
+![Preview](Image_1.png)
