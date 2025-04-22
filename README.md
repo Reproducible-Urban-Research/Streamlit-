@@ -53,8 +53,8 @@ This ensures consistent and reproducible environments across machines.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Reproducible-Urban-Research/safe-route-openstreetmap.git
-cd safe-route-openstreetmap
+git [clone https://github.com/Reproducible-Urban-Research/safe-route-openstreetmap.git](https://github.com/Reproducible-Urban-Research/Streamlit-.git)
+
 ```
 
 ### 2️⃣ Create and Activate Virtual Environment
