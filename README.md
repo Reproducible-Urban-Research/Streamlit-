@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-### 🖥️ Start the Flask App
+### 🖥️ Start the Streamlit App
 
 Run the Flask server:
 
@@ -84,7 +84,6 @@ Run the Flask server:
 streamlit run app.py
 ```
 
-Then open your browser and visit:
 
 
 
