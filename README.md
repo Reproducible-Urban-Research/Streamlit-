@@ -13,10 +13,34 @@ Streamlit is completely free and open-source and licensed under the Apache 2.0 l
 # Example: 
 
 
+London Historical Population Growth Dashboard (1801–2021)
+An interactive web dashboard built with Streamlit that allows users to explore and visualize historical population growth across London boroughs from 1801 to 2021, based on the provided dataset.
 
+The tool is ideal for urban planners, researchers, and anyone interested in understanding demographic trends and population changes over time.
+
+
+✅ Features
+📍 Key Features
+📊 Historical Population Data: Visualizes the population growth in each London borough from 1801 to 2021.
+
+🌍 Interactive Map: Displays the geographic boundaries of each borough and allows users to select a specific borough for detailed analysis.
+
+📈 Population Growth Calculation: Allows users to calculate the population growth between two selected years for a given borough.
+
+🗺️ Data Visualization: Uses Matplotlib to generate line charts showing population trends.
+
+🎨 Map Layering: Provides a color-coded map with the population growth data.
 
 ![Preview](Image_1.png)
 
+⚙️ Functionality
+🚶‍♂️ Borough Selector: Choose a borough to see its population data.
+
+📊 Growth Calculation: Calculate the population growth between two selected years.
+
+📍 Interactive Map: View the map with borough boundaries highlighted.
+
+📅 Year-based Filters: Select specific years to visualize data and calculate growth.
 
 ![Preview](Image_2.png)
 
