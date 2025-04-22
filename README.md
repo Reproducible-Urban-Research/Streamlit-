@@ -12,4 +12,79 @@ Streamlit is completely free and open-source and licensed under the Apache 2.0 l
 
 # Example: 
 
+
+
+
 ![Preview](Image_1.png)
+
+
+![Preview](Image_2.png)
+
+## 📁 Files
+This project consists of two main files:
+
+- `app.py` : 
+- 'Data' : This folder comprises of .shp data used for this project
+---
+
+## 📦 Prerequisites
+
+Ensure you have the following:
+
+- Python 3.x
+
+
+### Required Python Libraries
+
+All required Python packages (and their specific versions) are listed in the `requirements.txt` file.
+
+To install all dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+This ensures consistent and reproducible environments across machines.
+
+---
+
+## 🛠 Installation
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Reproducible-Urban-Research/safe-route-openstreetmap.git
+cd safe-route-openstreetmap
+```
+
+### 2️⃣ Create and Activate Virtual Environment
+
+```bash
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+# or
+venv\Scripts\activate     # Windows
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+
+## 🚀 Usage
+
+### 🖥️ Start the Flask App
+
+Run the Flask server:
+
+```bash
+streamlit run app.py
+```
+
+Then open your browser and visit:
+
+
+
+
