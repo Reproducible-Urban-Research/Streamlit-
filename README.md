@@ -18,6 +18,11 @@ An interactive web dashboard built with Streamlit that allows users to explore a
 
 The tool is ideal for urban planners, researchers, and anyone interested in understanding demographic trends and population changes over time.
 
+For this project data is acquired from https://data.london.gov.uk/dataset/historical-census-tables and data is read and data wrangling is performed. This data is used to build the app using structured app.py 
+
+
+
+
 
 📍 Key Features of dashboard
 
