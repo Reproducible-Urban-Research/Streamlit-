@@ -19,8 +19,8 @@ An interactive web dashboard built with Streamlit that allows users to explore a
 The tool is ideal for urban planners, researchers, and anyone interested in understanding demographic trends and population changes over time.
 
 
-✅ Features
-📍 Key Features
+📍 Key Features of dashboard
+
 📊 Historical Population Data: Visualizes the population growth in each London borough from 1801 to 2021.
 
 🌍 Interactive Map: Displays the geographic boundaries of each borough and allows users to select a specific borough for detailed analysis.
@@ -34,7 +34,8 @@ The tool is ideal for urban planners, researchers, and anyone interested in unde
 ![Preview](Image_1.png)
 
 ⚙️ Functionality
-🚶‍♂️ Borough Selector: Choose a borough to see its population data.
+
+Choose a borough to see its population data.
 
 📊 Growth Calculation: Calculate the population growth between two selected years.
 
