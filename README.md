@@ -1,4 +1,4 @@
-# Streamlit 
+# Streamlit App - Explore Historical Population trends in London 
 ## Overview
 **Streamlit**, an open-source Python library, to create an interactive dashboard, web applications. It allows developers to create powerful, interactive, and beautiful dashboards with minimal code. 
 It is particularly useful for:
