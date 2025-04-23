@@ -10,18 +10,29 @@ Streamlit is a powerful tool for urban planners and data scientists to quickly t
 ## License
 Streamlit is completely free and open-source and licensed under the Apache 2.0 license.
 
+## Streamlit Installing
+
+
+```bash
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+# or
+venv\Scripts\activate     # Windows
+```
+
+```bash
+pip install streamlit
+```
+
 # Example: 
 
 
 London Historical Population Growth Dashboard (1801–2021)
-An interactive web dashboard built with Streamlit that allows users to explore and visualize historical population growth across London boroughs from 1801 to 2021, based on the provided dataset.
+An interactive web dashboard built with Streamlit that allows users to explore and visualize historical population growth across London boroughs from 1801 to 2021.
 
 The tool is ideal for urban planners, researchers, and anyone interested in understanding demographic trends and population changes over time.
 
-For this project data is acquired from https://data.london.gov.uk/dataset/historical-census-tables and data is read and data wrangling is performed. This data is used to build the app using structured app.py 
-
-
-
+FThis project uses structured historical population data acquired from the London Datastore. The dataset is processed through data wrangling techniques and used to build an interactive dashboard using a structured app.py script.
 
 
 📍 Key Features of dashboard
@@ -53,7 +64,7 @@ Choose a borough to see its population data.
 ## 📁 Files
 This project consists of two main files:
 
-- `app.py` : 
+- `app.py` : Builds and runs the interactive Streamlit dashboard for visualizing population trends. ** Edit according to the project requirements**
 - 'Data' : This folder comprises of .shp data used for this project
 ---
 
