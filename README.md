@@ -128,29 +128,29 @@ streamlit run app.py
 ## ☁️ Deployment: Hosting Your Streamlit App Online
 You can easily deploy this Streamlit app using Streamlit Community Cloud – a free platform by Streamlit to host and share your apps.
 
-Steps to Deploy:
+### 1️⃣ Steps to Deploy:
 Push your project to GitHub
 Ensure your repo has the following:
 
-app.py
+- app.py
 
-requirements.txt
+-  requirements.txt
 
-Data/ folder (or host your data externally if it's too large)
+-  Data/ folder (or host your data externally if it's too large)
 
 
-Sign in to Streamlit Community Cloud
+### 2️⃣ Sign in to Streamlit Community Cloud
 Go to streamlit.io/cloud and log in with your GitHub account.
 
-Deploy the App
+- Deploy the App
 
-Click "New app"
+- Click "New app"
 
-Choose the correct GitHub repository
+- Choose the correct GitHub repository
 
-Set app.py as the entry point
+### 3️⃣ Set app.py as the entry point
 
-Click "Deploy"
+- Click "Deploy"
 
 🚀 Your app will be live at a public URL you can share!
 
