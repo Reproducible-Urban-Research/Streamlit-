@@ -10,7 +10,7 @@ st.set_page_config(layout="wide")
 # Cache data loading for performance
 @st.cache_data
 def load_data():
-    Data = gpd.read_file("Data\Data.shp").to_crs("EPSG:4326")
+    Data = gpd.read_file("Data/Data.shp").to_crs("EPSG:4326")
 
     # Convert population columns to numeric
     pop_cols = [col for col in Data.columns if col.isdigit()]
