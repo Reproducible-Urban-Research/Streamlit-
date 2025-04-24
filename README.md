@@ -47,7 +47,8 @@ FThis project uses structured historical population data acquired from the Londo
 
 🎨 Map Layering: Provides a color-coded map with the population growth data.
 
-**[![Preview](Image_1.png)](https://londonpop.streamlit.app/)
+# View app  https://londonpop.streamlit.app/
+[![Preview](Image_1.png)](https://londonpop.streamlit.app/)
 ⚙️ Functionality
 
 Choose a borough to see its population data.
